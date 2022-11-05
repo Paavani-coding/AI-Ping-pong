@@ -1,0 +1,35 @@
+body
+{
+    font-family: 'Crimson Text';
+    font-weight: bold !important;
+}
+
+.heading h1{
+    font-size: 30px;
+    color: aliceblue;
+    font-weight: bolder;
+    text-shadow: 1px 1px aliceblue;
+    margin-left: 15px;
+}
+
+#start, #restart{
+    font-size: 18px !important;
+    background-color: rgb(26, 90, 109);
+    color: aliceblue;
+}
+
+h4{
+    background-color: rgb(6, 6, 89);
+    line-height: 2;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+canvas{
+    margin-top: 25px;
+    border: darkorange 5px solid;
+    padding: 5px;
+}
